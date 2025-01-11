@@ -26,8 +26,6 @@ The implementation in-game features PAUTH (https://github.com/sildotdev/pauth/) 
 #### Police Computer Concept Art
 Done in Figma, unfortunately not implemented before the project was halted.
 ![image](https://github.com/user-attachments/assets/728b8fa8-993d-4414-bce4-64031b0b2e75)
-![image](https://github.com/user-attachments/assets/43c62682-2975-471b-86a7-22251eec5fd2)
-![image](https://github.com/user-attachments/assets/e5c65847-e1f1-4d6f-99ad-7c266e844972)
 
 ### Entity Interaction Menu
 ![image](https://github.com/user-attachments/assets/55708d33-e339-4db8-a4bf-c9ac41f15cca)
