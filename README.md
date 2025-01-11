@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/b65d2e65-bb24-4445-89b1-42a9432d1010
 
 ### Police Computer
 https://github.com/user-attachments/assets/bdff1957-cbba-4b06-89f2-5bd37e9b68eb
+
 The Police Computer is achieved by running an external React web app using the React95 template. See here: https://github.com/sildotdev/palOS
 The implementation in-game features PAUTH (https://github.com/sildotdev/pauth/) authentication and retrieving arrest records from PAPI (https://github.com/sildotdev/papi/).
 
