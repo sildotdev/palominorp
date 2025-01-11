@@ -10,6 +10,10 @@ Palomino was a extensive roleplay schema built off of a custom fork of Helix (ht
 ### Character Creation Menu
 https://github.com/user-attachments/assets/b65d2e65-bb24-4445-89b1-42a9432d1010
 
+### Intro & Main Menu
+
+https://github.com/user-attachments/assets/6bd9afda-d84e-4872-8790-e542427e9f17
+
 ### Inventory Menu
 
 #### Inventory Menu Concept Art
