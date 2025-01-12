@@ -31,10 +31,6 @@ https://github.com/user-attachments/assets/6bd9afda-d84e-4872-8790-e542427e9f17
 The image below is one of the first things I created for this project. It ended up becoming so popular that someone remade it in figma, and that remake was featured on some [YouTube videos](https://youtu.be/lHr1AXEG_b0?si=s8P7XqW47i4yz_e5&t=23).
 ![image (5)](https://github.com/user-attachments/assets/f1e05ddb-8548-4e8d-bbc6-03f4da0970cf)
 
-![Game Example (18)](https://github.com/user-attachments/assets/6f3c20b4-2b3e-4984-bb27-f462fc8497a4)
-
-
-
 ## Prop Building
 
 https://github.com/user-attachments/assets/c1e77e83-0099-4782-a229-4d7450de2c33
