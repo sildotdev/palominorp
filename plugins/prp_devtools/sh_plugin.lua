@@ -6,8 +6,7 @@ PLUGIN.description = "Tools for debugging and development."
 
 PLUGIN.developers = {
     ["STEAM_0:1:56142649"] = "sil",
-    -- @TODO: Remove from production
-    ["STEAM_0:0:0"] = "Multirun"
+    -- ["STEAM_0:0:0"] = "Multirun"
 }
 
 ix.util.Include("sv_plugin.lua")
